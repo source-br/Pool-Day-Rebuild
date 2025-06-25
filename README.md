@@ -12,14 +12,13 @@
 
 </div>
 
-[![made-with-hammer++](https://img.shields.io/badge/Made%20with-Hammer++-6297b3.svg)](https://ficool2.github.io/HammerPlusPlus-Website/)
+[![Hammer++](https://img.shields.io/badge/Made%20with-Hammer++-6297b3.svg)](https://ficool2.github.io/HammerPlusPlus-Website/)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&label=Discord%20server&color=6297b3)](https://discord.gg/tVNv6SNZZT)
-[![Github](https://img.shields.io/badge/Github-Download-6297b3?logo=github)](https://github.com/source-br/Pool-Day-Rebuild/releases/download/v1.0/pool_day_rebuild.7z)
+[![Github](https://img.shields.io/badge/Github-Download-6297b3?logo=github)](https://github.com/source-br/Pool-Day-Rebuild/releases)
 
 ## About the project:
 
-Pool Day Rebuild initially started as a simple challenge: to create a superior version of the classic original map. However, the project quickly evolved into something much greater, incorporating various inspirations from Counter-Strike 2, Counter-Strike 1.6, Counter-Strike: Source, and even Left 4 Dead 2.
-The result is a complete reinterpretation that respects the essence of the original map while introducing visual, structural, and gameplay improvements—delivering an experience that is both modern and nostalgic.
+**Pool Day Rebuild** initially started as a simple challenge: to create a superior version of the classic original map. However, the project quickly evolved into something much greater, incorporating various inspirations from *Counter-Strike 2*, *Counter-Strike 1.6*, *Counter-Strike: Source*, and even *Left 4 Dead 2*. The result is a complete reinterpretation that respects the essence of the original map while introducing visual, structural, and gameplay improvements—delivering an experience that is both modern and nostalgic.
 
 <div align="center">
   <img src="Docs/img/tr_base2.jpg" width="30%">
