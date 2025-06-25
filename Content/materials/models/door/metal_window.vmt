@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"metal/metal_window"
+	"$envmap"		"env_cubemap"
+	"$model"		"1"
+}

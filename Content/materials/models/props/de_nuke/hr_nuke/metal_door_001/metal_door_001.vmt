@@ -1,0 +1,22 @@
+"vertexlitgeneric"
+{
+	"$basetexture"           "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001"
+	"$detail"                 "models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail"
+	"$detailscale"           "[.1 .1 .1]"
+	"$detailblendfactor"     ".25"
+	"$envmapmask"             "models/props/de_nuke/hr_nuke/metal_door_001/metal_door_001_specmask"
+	"$envmaplightscale"       "1"
+	"$envmaplightscaleminmax" "[0 1.0]"
+	"$envmapsaturation"       "0.55"
+	"$envmap"                 "env_cubemap"
+	"$surfaceprop"           "metal"
+	"$blendtintbybasealpha"   "1"
+	"$envmaptint" "[0.1 0.1 0.1]"
+
+
+"$phong" 1
+"$phongexponent" 25
+"$phongfresnelranges" "[ .2 .5 1]"
+"$phongboost" 50
+
+}

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+"$baseTexture" "models\props_interiors/drinking_fountain"
+"$bumpmap" "models\props_interiors/drinking_fountain_normal"
+"$envmap" "env_cubemap"
+"$envmaptint" "[0.5 0.5 0.5]"
+}

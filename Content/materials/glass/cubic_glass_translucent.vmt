@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "glass/cubic_glass1_tnt_2"
+	"$dudvmap" "glass/cubic_glass1"
+	"$normalmap" "glass/cubic_glass1_normal"
+	"$surfaceprop" "glass"
+
+	"%tooltexture"	"glass/cubic_glass1"
+	"$translucent" "1"

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/metal_clear"
+"$envmap" "env_cubemap"
+}

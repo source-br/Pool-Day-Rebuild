@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"tile/white_tile01"
+	"$surfaceprop"	"tile"
+	"$bumpmap"	"tile/blue_tile03_normal"
+	"$envmap"	"env_cubemap"
+	"$ambientocclusion" 	"1"
+	"ambientoccltexture"	"tile/white_tile01_ao"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.1 .1 .1 ]"
+	"$envmapcontrast" "0.8"
+	"$envmapsaturation" "0.3"
+	"%keywords"		"gmlvl"
+}

@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fy_poolnight/woodpaneling"
+	"$surfaceprop" "wood"
+	"$bumpmap" "fy_poolnight/woodpanelinginvert_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" .9
+	"$envmapsaturation" .9
+	"$envmaptint" "[ .1 .1 .1 ]"
+	
+}
+
+
+

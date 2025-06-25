@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$basetexture" "fy_poolnight/lighttexture"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+	
+	
+}
+
+
+

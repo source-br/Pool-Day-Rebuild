@@ -1,0 +1,48 @@
+"pool.outdoor"
+{
+
+	"playlooping"
+	{
+		"volume"	"1"
+		"pitch"		"92"
+		"channel"	"CHAN_AUTO"
+		"position"	"0"
+		"attenuation"	"1.2"
+		"wave"		"ambient/wind/wind.wav"
+	}
+	
+	"playrandom"
+	{
+		"volume"	".5,30"
+		"pitch"		"92"
+		"channel"	"CHAN_AUTO"
+		"position"	"1"
+		"attenuation"	"1.2"
+		
+		"rndwave"
+		{
+			"wave"		"ambient\misc\honk 1.wav"
+			"wave"		"ambient\misc\honk 2.wav"
+			"wave"		"ambient\misc\honk 3.wav"
+	}
+		
+	"playrandom"
+	{
+		"volume"	".65"
+		"pitch"		"92"
+		"channel"	"CHAN_AUTO"
+		"position"	"2"
+		"attenuation"	"1.2"
+		"wave"		"ambient\machines\fluorescent_1.wav"
+	}
+	
+	"playrandom"
+	{
+		"volume"	".2,70"
+		"pitch"		"92"
+		"channel"	"CHAN_AUTO"
+		"position"	"2"
+		"attenuation"	"1.2"
+		"wave"		"ambient\machines\aircraft_distant_1.wav"
+	}
+}

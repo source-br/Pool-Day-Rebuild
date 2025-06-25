@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/metal_window"
+	"$surfaceprop" "metal"
+	"$bumpmap" "metal/metal_window_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.01 0.01 0.01]"
+}

@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tools\toolsblack"
+	"$translucent" 1	
+//	"$bumpmap" "glass/reflectiveglass003_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[2 2 2]"
+	"$surfaceprop" "glass"
+}

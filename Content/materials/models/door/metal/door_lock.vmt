@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"metal/door_lock"
+	"$bumpmap"		"metal/metal_window_normal"
+	"$envmap"		"env_cubemap"
+	"$envmaptint"	"[0.2 0.2 .2 ]"
+	"$model"		"1"
+}

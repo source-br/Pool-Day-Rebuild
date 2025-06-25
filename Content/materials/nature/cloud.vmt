@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nature/cloud"
+	"$nocull" 1
+	"$translucent" 1
+	"$nofullbright" 1
+}

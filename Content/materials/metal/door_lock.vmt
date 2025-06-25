@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/door_lock"
+	"$surfaceprop" "metal"
+	"$bumpmap" "metal/metal_window_normal"
+	"$envmap" "env_cubemap"
+}

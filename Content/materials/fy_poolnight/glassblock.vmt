@@ -1,0 +1,21 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fy_poolnight/glassblock"
+	"$surfaceprop" "glass"
+	"$bumpmap" "fy_poolnight/glassblock_normal"
+//	"$REFRACTTINTTEXTURE" "models/props_lab/glass_tint001"
+//	"$refracttexture" "_rt_WaterRefraction"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[.05 .05 .05]"
+	"$envmapsphere" 1
+//	"$translucent" 1
+//	"$nocull" 1
+//	"$refractamount" ".4"
+	"$basealphaenvmapmask" 1
+		
+	
+	
+}

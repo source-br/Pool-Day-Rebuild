@@ -1,0 +1,11 @@
+WorldVertexTransition
+{
+"%tooltexture" "concrete\blend_sidewalk_grass_tooltexture"
+$basetexture "concrete\docks_sidewalk"
+$basetexture2 "nature\grasslawn_patchy01"
+$blendmodulatetexture "concrete\alley_blend"
+$surfaceprop concrete
+$surfaceprop2 grass
+$bumpmap "concrete\docks_sidewalk-ssbump"
+$ssbump 1
+}

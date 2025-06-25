@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fy_poolnight/midtilered"
+	"$surfaceprop" "tile"
+	"$bumpmap" "fy_poolnight/midtilewhite_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .1 .1 .1 ]"
+	"$reflectivity" "[1 1 1]"
+	
+	
+}

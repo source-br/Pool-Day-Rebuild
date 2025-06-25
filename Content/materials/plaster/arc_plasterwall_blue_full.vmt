@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+$baseTexture "plaster/arc_plasterwall_blue_full"
+$surfaceprop plaster
+$color "[ .75 .75 .75]"
+
+$bumpmap "plaster/arc_plasterwall_height-ssbump"
+$envmap env_cubemap
+$normalmapalphaenvmapmask 1
+$envmaptint "[ .03 .03 .03 ]"
+
+
+$ssbump 1
+
+
+}

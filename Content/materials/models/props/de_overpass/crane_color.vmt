@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props/de_overpass/crane_color"
+	
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/props/de_overpass/crane_mask"
+	"$envmapcontrast" "1.01"
+	"$blendtintbybasealpha" "1"
+
+
+
+
+	
+
+}

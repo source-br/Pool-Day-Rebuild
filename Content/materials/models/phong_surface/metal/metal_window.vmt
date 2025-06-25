@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		 "tools\toolsblack"
+	"$bumpmap"		 "tile/white_tile01_normal"
+	"$model"	"1"
+"$phong" 1
+"$phongexponent" 20
+"$phongfresnelranges" "[ .2 .5 1]"
+"$phongboost" 30
+"%keywords" "tf"
+"$additive" 1
+}

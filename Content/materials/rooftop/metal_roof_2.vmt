@@ -1,0 +1,15 @@
+"LightMappedGeneric"
+{
+	"$basetexture" "rooftop\metal_roof_2"
+	"$surfaceprop" "metal"
+"$envmap" "env_cubemap"
+	"$envmaptint" "[.001 .001 .001]"
+
+	"$phongexponent" "1"
+	"$phongtint" "[1 1 1]"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0 0.5 1]"
+
+	"$bumpmap" "rooftop\metal_roof_2_normal"
+
+}

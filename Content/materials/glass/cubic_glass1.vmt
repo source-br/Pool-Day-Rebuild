@@ -1,0 +1,26 @@
+"Refract"
+{
+ 	"$model" 1
+ 	"$refractamount" ".10"
+ 	"$bluramount" "1"
+	"$REFRACTTINT" "{255 255 255}"
+	"$scale" "[.5 .5]"
+	"$dudvmap" "glass/cubic_glass1"
+	"$normalmap" "glass/cubic_glass1_normal"
+	"$refracttinttexture" "glass/cubic_glass1_tnt"
+	"$nocull" 0
+	"$surfaceprop" "glass"
+//	"$envmap" "env_cubemap"
+	"$envmapcontrast" "0.6"
+	"$envmapsaturation" "[0.5 0.5 0.5]"
+	"$envmaptint" "[.8 .8 .8]"
+	"%tooltexture"	"glass/cubic_glass1"
+	"$translucent" "1"
+
+//	"$refracttinttexture" "Models/props_c17/door02a"
+
+//	"Refract_DX60"
+//	{
+//		"$fallbackmaterial" "glass/cubic_glass1_DX60"
+//	}
+//}

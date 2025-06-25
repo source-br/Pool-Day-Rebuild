@@ -1,0 +1,15 @@
+"lightmappedgeneric"
+{
+	"$basetexture"            "ceiling/hr_c/hr_ceiling_tile_001_color"
+	"$surfaceprop"            "concrete"
+	"$detail"                 "floors/hr_c/hr_floor_tile_001_detail"
+	"$detailscale"            ".25"
+	"$detailblendfactor"      ".5"
+	"$envmapmasktransform"    "center 0 0 scale 2 2 rotate 0 translate 0 0"
+	"$envmapmask"             "ceiling/hr_c/hr_ceiling_tile_001_specmask"
+	"$envmap"                 "env_cubemap"
+	"$envmaplightscale"       "1"
+	"$envmaplightscaleminmax" "[0 1.25]"
+	"$envmapsaturation"       ".65"
+	"$envmapcontrast"         ".2"
+}

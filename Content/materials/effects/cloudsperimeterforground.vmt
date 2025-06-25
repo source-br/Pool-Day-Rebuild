@@ -1,0 +1,20 @@
+UnlitGeneric
+{
+$baseTexture "effects/CloudsPerimeterForground"
+$translucent 1
+$color2 "[ .5 .5 .5 ]"
+$nofog 1
+UnlitGeneric_hdr_dx9
+{
+$color2 "[ .35 .35 .35 ]"
+}
+Proxies
+{
+TextureScroll
+{
+texturescrollvar $baseTextureTransform
+texturescrollrate 0.009
+texturescrollangle 0
+}
+}
+}

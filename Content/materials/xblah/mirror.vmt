@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "halflife/glassblue2"
+	"$surfaceprop" "tile"
+	"$bumpmap" "XBLAH/mirror_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .42 .42 .42 ]"
+	"$reflectivity" "[1 1 1]"
+	
+	
+}

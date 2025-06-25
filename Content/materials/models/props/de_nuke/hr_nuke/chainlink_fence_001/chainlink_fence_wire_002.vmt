@@ -1,0 +1,9 @@
+vertexlitgeneric
+{
+	"$basetexture"        "models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_wire_002"
+	"$alphatest"          "1"
+	"$alphatestreference" "0.3"
+	"$nodecal"            "1"
+	"$model"              "1"
+	"$surfaceprop"        "chainlink"
+}

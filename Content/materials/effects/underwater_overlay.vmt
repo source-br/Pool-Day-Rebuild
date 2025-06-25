@@ -1,0 +1,28 @@
+"Refract"
+{
+	"<dx90"
+	{
+		"$fallbackmaterial" "nature/water_warp01_dx8"
+	}
+
+	"$refractamount" ".004"
+//	"$refracttint" ".25 .47 .32}"
+	"$bluramount" "1"
+	"$ignorez" "1"
+
+	"$scale" "[1 1]"
+
+//	"$bumpmap" "nature/water_coast01_dudv"
+	"$normalmap" "liquids/water_river_normal_sharp"
+	
+	"$bumpframe" "0"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .1
+			"texturescrollangle" 45.00
+		}
+	}
+}

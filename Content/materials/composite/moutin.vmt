@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "composite/moutin"
+"$bumpmap" "composite/moutin_nrm"
+}

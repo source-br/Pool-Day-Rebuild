@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"metal/blue_metal"
+"$bumpmap" "metal/blue_metal_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[0.5 0.5 1]"
+
+        "$detail" "detail\metal_detail_01"
+	"$detailscale" "5.345"
+	"$detailblendfactor" .1
+	"$detailblendmode" 0
+}

@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+	"$basetexture"            "models/props/de_nuke/hr_nuke/nuke_light_fixture/recessed_lighting_fixture_color"
+	"$selfillum"              "1"
+	"$selfillumtint"          "[2 2 2]"
+	"$envmaplightscale"       "1"
+	"$envmaplightscaleminmax" "[0 1.2]"
+	"$envmap"                 "environment maps/metal_generic_006"
+	"$envmapmask"             "models/props/de_nuke/hr_nuke/nuke_light_fixture/recessed_lighting_fixture_color"
+}

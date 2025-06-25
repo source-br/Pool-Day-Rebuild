@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "fy_poolnight/tilebigblue"
+	"$reflectivity" "[1 1 1]"
+	"$surfaceprop" "tile"
+	"$bumpmap" "fy_poolnight/tilebigblue_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .05 .05 .05 ]"
+	
+}
+
+
+

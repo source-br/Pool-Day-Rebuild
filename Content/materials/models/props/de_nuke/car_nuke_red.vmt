@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\props\de_nuke\car_nuke_red"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\props\de_nuke\car_nuke_ref"
+	"$bumpmap" "dev/flat_normal"
+"$phong" 1
+"$phongexponent" 14
+"$phongfresnelranges" "[ .1 .01 100]"
+"$phongboost" 5
+}
