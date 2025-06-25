@@ -28,10 +28,10 @@
 
 ## Instalação:
 
-1. Baixe o arquivo `.7z` e extraia seu conteúdo.
+1. Baixe o arquivo `.7z` e extraia seu conteúdo
 2. Pegue o arquivo `.bsp` e copie para a pasta `maps` do CS: Source: 
 - `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\maps`  
-3. Pronto! Agora é só jogar.
+3. Pronto! Agora é só jogar
 
 [Baixar](https://github.com/source-br/Pool-Day-Rebuild/releases)
 
