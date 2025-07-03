@@ -26,6 +26,15 @@
   <img src="Docs/img/ct_base2.jpg" width="30%">
 </div>
 
+---
+
+And as a bonus, we also ported the 1.6 map to Source.
+<div align="center">
+  <img src="Docs/img/tr_base_gold.jpg" width="30%">
+  <img src="Docs/img/pool_gold.jpg" width="30%">
+  <img src="Docs/img/ct_base_gold.jpg" width="30%">
+</div>
+
 ## Installation:
 
 1. Download the `.7z` file and extract its contents
