@@ -15,6 +15,7 @@
 [![Hammer++](https://img.shields.io/badge/Feito%20com-Hammer++-6297b3.svg)](https://ficool2.github.io/HammerPlusPlus-Website/)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&label=Servidor%20do%20Discord&color=6297b3)](https://discord.gg/tVNv6SNZZT)
 [![Github](https://img.shields.io/badge/Github-Baixar-6297b3?logo=github)](https://github.com/source-br/Pool-Day-Rebuild/releases)
+[![Oficina](https://img.shields.io/badge/Oficina_Steam-Baixar-6297b3?logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3519651421)
 
 ## Sobre o projeto:
 
